@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  #  education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Xi Chen, PhD
@@ -107,21 +107,21 @@ experiences:
           adults was a valid indicator of worse memory performance, greater 
           memory decline, and decreased brain function in the hippocampus.
 projects:
-    title: Projects
+    title: Current Projects
 #    intro: >
 #      My current work focuses on three main questions.
     assignments:
       - title: What are the functional activation features in successful agers?
 #        link: "#"
-        tagline: "Although older adults often present worse cognitive performance, some still manage to maintain cognitive functions. Explorations on the functional basis for this resistance to age-related decline may provide a hint of the key to successful aging."
+        tagline: "Although older adults often present declining cognitive performance, some still manage to maintain their functions in old age. Explorations on the functional basis for this resiliance to age-related decline may provide a hint of the key to successful aging."
 
       - title: How are memory systems affected by aging and Alzheimer's Disease?
 #        link: "#hook"
-        tagline: "Memory declines with increasing age and in AD, but how are episodic memory differently affected in normal and pathological aging? Are there specific behavioral markers that are sensitive to alert AD-related memory deficits? Understanding these questions will greatly help with the early detection of AD and the development of better screening tools in clinical trials for AD treatments."
+        tagline: "Memory is one of the most vulnerable abilities that decline with increasing age and in AD. How are brain systems supporting episodic memory affected in normal and pathological aging? Are there specific behavioral markers that are sensitive to alert AD-related memory deficits? Understanding these questions will help the early detection of pathological changes beyond normal aging and the development of better screening tools in clinical trials for AD treatments."
 
       - title: How do socioeconomic status factors affect age-related declines?
 #        link: "#"
-        tagline: "Many important socioeconomic status factors (e.g., education, occupation) are shown to be related to differences in cognitive aging. But it is unclear what is the underlying mechanism, and to what extent it affects cognitive declines in normal and pathological aging."
+        tagline: "Many important socioeconomic factors (e.g., education, occupation, income) are shown to be related to differences in cognitive aging. But it is unclear what is the underlying mechanism, and to what extent it affects cognitive declines in normal and pathological aging."
 
 
 publications:
@@ -198,15 +198,19 @@ skills:
     title: Skills
     toolset:
       - name: "Statistical analysis: 
+
               R, SPSS, Mplus"
         level: 98%
       - name: "Neuroimaging analysis: 
+      
               SPM, FSL, FreeSurfer"
         level: 98%
       - name: "Experimental design: 
+      
               Psychopy, E-prime"      
         level: 92%
       - name: "Programming: 
+      
               MATLAB, Python, Bash"
         level: 80%
 
