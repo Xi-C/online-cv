@@ -21,8 +21,10 @@ sidebar:
   # telegram: # add your nickname without '@' sign
   # gitlab:
   # bitbucket:
+    googlescholar: GoogleScholar_XiChen
+    researchgate: Researchgate_XiChen
     twitter: '@_Xi_Chen__'
-    CV: bit.ly/XiChenCV #do not add http://
+  # CV: bit.ly/XiChenCV #do not add http://
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
