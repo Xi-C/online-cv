@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  #  education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Xi Chen, PhD
@@ -133,12 +133,12 @@ publications:
         conference: Journal of Neuroscience, 2021
 
       - title: "The relationship of functional hippocampal activity, amyloid deposition, and longitudinal memory decline to memory complaints in cognitively healthy older adults"
-      #  link: "#"
+        link: "#"
         authors: Xi Chen, Michelle E Farrell, Melissa M Rundle, Micaela Y Chan, William A Moore, Gagan S Wig, Denise C Park
         conference: Neurobiology of Aging, 2021
 
       - title: "Alzheimer's pathology is associated with dedifferentiation of functional memory networks in aging"
-      #  link: "#"
+        link: "#"
         authors: Kaitlin Cassady, Jenna Adams, Xi Chen, Anne Maass, Theresa Harrison, Susan Landau, Suzanne Baker, William Jagust
         conference: Cerebral Cortex, 2021
 
@@ -196,25 +196,16 @@ publications:
 
 skills:
     title: Skills
-
     toolset:
-      - name: R, SPSS, Mplus
-
-        level: 98%
-
-      - name: SPM, FSL, FreeSurfer
-
-        level: 98%
-
-      - name: Psychopy, E-prime
-      
-        level: 95%
-
-      - name: MATLAB, Python
-      
-        level: 90%
-
+      - name: "Statistical analysis: R, SPSS, Mplus"
+#        level: 98%
+      - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
+#        level: 98%
+      - name: "Experimental design: Psychopy, E-prime"      
+#        level: 95%
+      - name: "Programming: MATLAB, Python"
+#        level: 90%
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Template adapted from <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
