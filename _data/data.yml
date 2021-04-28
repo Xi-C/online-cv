@@ -204,9 +204,9 @@ skills:
       - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
         level: 95%
       - name: "Statistical analysis: R, SPSS, Mplus"
-        level: 90%
+        level: 95%
       - name: "Programming: MATLAB, Python, Bash"
-        level: 80%
+        level: 70%
 
 
 footer: >
