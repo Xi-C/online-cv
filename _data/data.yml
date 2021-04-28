@@ -42,11 +42,13 @@ sidebar:
     interests:
       - item: Cognitive Aging
 #        link:
-
       - item: Memory
 #        link:
-
       - item: Neuroimaging
+#        link:
+      - item: Alzheimer's Disease
+#        link:
+      - item: Subjective Memory
 #        link:
 
 career-profile:
