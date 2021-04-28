@@ -24,18 +24,17 @@ sidebar:
     twitter: '@_Xi_Chen__'
     googlescholar: GoogleScholar_XiChen
     researchgate: ResearchGate_XiChen
-    orcid: ORCID_XiChen
   # CV: bit.ly/XiChenCV #do not add http://
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
 
-  #  languages:
-  #    - idiom: English
-  #      level: Professional
+    languages:
+      - idiom: English
+        level: Professional
 
-  #   - idiom: Chinese
-  #     level: Native
+      - idiom: Chinese
+       level: Native
 
 #      - idiom: Spanish
 #        level: Professional
