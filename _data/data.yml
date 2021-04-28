@@ -80,7 +80,8 @@ education:
 experiences:
     - role: Postdoctoral Researcher
       time: 2020 Janurary - Present
-      company: Lawrence Berkeley National Laboratory; University of California, Berkeley
+      company: "Lawrence Berkeley National Laboratory
+      University of California, Berkeley"
       details: |
           - Worked with large longitudinal datasets of multi-modal neuroimaging 
           and cognitive data in normal older adults
@@ -197,21 +198,13 @@ publications:
 skills:
     title: Skills
     toolset:
-      - name: "Statistical analysis: 
-      
-              R, SPSS, Mplus"
+      - name: "Statistical analysis: R, SPSS, Mplus"
         level: 98%
-      - name: "Neuroimaging analysis: 
-    
-              SPM, FSL, FreeSurfer"
+      - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
         level: 98%
-      - name: "Experimental design: 
-      
-              Psychopy, E-prime"      
+      - name: "Experimental design: Psychopy, E-prime"      
         level: 92%
-      - name: "Programming: 
-      
-              MATLAB, Python, Bash"
+      - name: "Programming: MATLAB, Python, Bash"
         level: 80%
 
 
