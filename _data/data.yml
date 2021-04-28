@@ -67,10 +67,6 @@ career-profile:
       normal and successful agers. Ultimately, I am interested in understanding 
       brain and behavioral changes in pathological, normal, and successful aging.
 education:
-    title: "Education & Training"
-    - degree: Postdoctoral training
-      university: University of California, Berkeley
-      university: Lawrence Berkeley National Laboratory
     - degree: PhD in Cognition and Neuroscience
       university: University of Texas at Dallas
       #time: 2011 - 2012
@@ -203,13 +199,13 @@ skills:
     toolset:
       - name: "Statistical analysis: 
               R, SPSS, Mplus"
-        level: 95%
+        level: 98%
       - name: "Neuroimaging analysis: 
               SPM, FSL, FreeSurfer"
-        level: 95%
+        level: 98%
       - name: "Experimental design: 
               Psychopy, E-prime"      
-        level: 90%
+        level: 92%
       - name: "Programming: 
               MATLAB, Python, Bash"
         level: 80%
