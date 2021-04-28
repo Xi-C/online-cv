@@ -29,12 +29,12 @@ sidebar:
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Professional
+  #  languages:
+  #    - idiom: English
+  #      level: Professional
 
-      - idiom: Chinese
-        level: Native
+  #    - idiom: Chinese
+  #      level: Native
 
 #      - idiom: Spanish
 #        level: Professional
