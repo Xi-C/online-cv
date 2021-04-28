@@ -202,9 +202,9 @@ skills:
       - name: "Experimental design: Psychopy, E-prime"      
         level: 95%
       - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
-        level: 90%
+        level: 95%
       - name: "Statistical analysis: R, SPSS, Mplus"
-        level: 85%
+        level: 90%
       - name: "Programming: MATLAB, Python, Bash"
         level: 80%
 
