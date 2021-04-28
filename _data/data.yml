@@ -67,16 +67,16 @@ career-profile:
       normal and successful agers. Ultimately, I am interested in understanding 
       brain and behavioral changes in pathological, normal, and successful aging.
 education:
-    - degree: PhD in Cognition and Neuroscience
+    - degree: PhD, Cognition and Neuroscience
       university: University of Texas at Dallas
       #time: 2011 - 2012
       #details: |
-    - degree: MS in Applied Cognition and Neuroscience
+    - degree: MS, Applied Cognition and Neuroscience
       university: University of Texas at Dallas
       #time: 2007 - 2011
-    - degree: BS in Psychology
+    - degree: BS, Psychology
       university: Beijing Normal University
-      #time: 2007 - 2011      
+      #time: 2008 - 2012      
 experiences:
     - role: Postdoctoral Researcher
       time: 2020 Janurary - Present
@@ -198,11 +198,11 @@ skills:
     title: Skills
     toolset:
       - name: "Statistical analysis: 
-
+      
               R, SPSS, Mplus"
         level: 98%
       - name: "Neuroimaging analysis: 
-      
+    
               SPM, FSL, FreeSurfer"
         level: 98%
       - name: "Experimental design: 
@@ -217,4 +217,4 @@ skills:
 
 
 footer: >
-    Template adapted from <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Design template from <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> @ 2021
