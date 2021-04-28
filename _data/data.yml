@@ -55,9 +55,7 @@ career-profile:
       I am a postdoctoral researcher in [the Jagust Lab](https://jagustlab.neuro.berkeley.edu) at [the University of 
       California, Berkeley](https://www.berkeley.edu) and [Lawrence Berkeley National Laboratory](https://www.lbl.gov),
       with experience in experimental design, multi-modal neuroimaging methods, 
-      and advanced statistical analysis (e.g., linear/nonlinear regression, 
-      causal inference approach, multivariate analysis, structural equation 
-      modeling, linear mixed model). I completed my Ph.D. in Cognition and 
+      and advanced statistical analysis. I completed my Ph.D. in Cognition and 
       Neuroscience with Dr. Denise Park at the University of Texas at Dallas.
 
 
@@ -66,9 +64,11 @@ career-profile:
       Positron Emission Tomography (PET), I study behavioral and brain 
       differences in healthy older individuals and those at the preclinical stage
       of Alzheimer's Disease (AD). My research also incorporates advanced 
-      statistical techniques and explores individual differences separating 
-      normal and successful agers. Ultimately, I am interested in understanding 
-      brain and behavioral changes in pathological, normal, and successful aging.
+      statistical analysis (e.g., linear/nonlinear regression, mixed effects 
+      modeling, causal inference approach, multivariate analysis, structural 
+      equation modeling, mixture modeling) and explores individual differences 
+      in normal and successful agers. Ultimately, I am interested in understanding 
+      brain and behavioral bases for pathological, normal, and successful aging.
 education:
     - degree: Ph.D. in Cognition and Neuroscience
       university: University of Texas at Dallas
