@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    #education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Xi Chen
@@ -56,6 +56,8 @@ career-profile:
       regression, causal inference approach, multivariate analysis, structural 
       equation modeling, linear mixed model). I completed my Ph.D. in Cognition 
       and Neuroscience with Dr. Denise Park at the University of Texas at Dallas.
+
+
       I am interested in age-related changes in cognition, brain structure, and 
       brain function. Specifically, using Magnetic Resonance Imaging (MRI) and 
       Positron Emission Tomography (PET), I study behavioral and brain 
@@ -78,8 +80,7 @@ education:
 experiences:
     - role: Postdoctoral Researcher
       time: 2020 Janurary - Present
-      company: UC Berkeley
-      company: Lawrence Berkeley National Laboratory
+      company: UC Berkeley and Lawrence Berkeley National Laboratory
       details: |
           - Worked with large longitudinal datasets of multi-modal neuroimaging 
           and cognitive data in normal older adults
@@ -107,8 +108,8 @@ experiences:
           memory decline, and decreased brain function in the hippocampus.
 projects:
     title: Projects
-    intro: >
-      My current work focuses on three main questions.
+#    intro: >
+#      My current work focuses on three main questions.
     assignments:
       - title: What are the functional activation features in successful agers?
 #        link: "#"
@@ -132,12 +133,12 @@ publications:
         conference: Journal of Neuroscience, 2021
 
       - title: "The relationship of functional hippocampal activity, amyloid deposition, and longitudinal memory decline to memory complaints in cognitively healthy older adults"
-        link: "#"
+      #  link: "#"
         authors: Xi Chen, Michelle E Farrell, Melissa M Rundle, Micaela Y Chan, William A Moore, Gagan S Wig, Denise C Park
         conference: Neurobiology of Aging, 2021
 
       - title: "Alzheimer's pathology is associated with dedifferentiation of functional memory networks in aging"
-        link: "#"
+      #  link: "#"
         authors: Kaitlin Cassady, Jenna Adams, Xi Chen, Anne Maass, Theresa Harrison, Susan Landau, Suzanne Baker, William Jagust
         conference: Cerebral Cortex, 2021
 
@@ -197,17 +198,18 @@ skills:
     title: Skills
 
     toolset:
+      - name: Experimental design - Psychopy, E-prime
+        level: 95%
+
       - name: Imaging analysis - SPM, FSL, FreeSurfer
-#        level: 98%
+        level: 98%
 
       - name: Statistical analysis - R, SPSS, Mplus
-#        level: 98%
+        level: 98%
 
       - name: Programming - MATLAB, Python
-#        level: 98%
+        level: 90%
 
-      - name: Experimental design - Psychopy, E-prime
-#        level: 95%
 
 
 footer: >
