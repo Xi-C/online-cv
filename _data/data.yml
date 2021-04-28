@@ -26,7 +26,12 @@ sidebar:
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
 
+#    languages:
+#      - idiom: English
+#        level: Professional
 
+#      - idiom: Chinese
+#        level: Native
 
 #      - idiom: Spanish
 #        level: Professional
@@ -62,6 +67,10 @@ career-profile:
       normal and successful agers. Ultimately, I am interested in understanding 
       brain and behavioral changes in pathological, normal, and successful aging.
 education:
+    title: "Education & Training"
+    - degree: Postdoctoral training
+      university: University of California, Berkeley
+      university: Lawrence Berkeley National Laboratory
     - degree: PhD in Cognition and Neuroscience
       university: University of Texas at Dallas
       #time: 2011 - 2012
@@ -75,7 +84,7 @@ education:
 experiences:
     - role: Postdoctoral Researcher
       time: 2020 Janurary - Present
-      company: UC Berkeley; Lawrence Berkeley National Laboratory
+      company: Lawrence Berkeley National Laboratory; University of California, Berkeley
       details: |
           - Worked with large longitudinal datasets of multi-modal neuroimaging 
           and cognitive data in normal older adults
@@ -87,7 +96,7 @@ experiences:
           of future memory decline in older adults with and without AD pathology
     - role: Graduate Research Assistant
       time: 2014 June - 2019 December
-      company: UT Dallas
+      company: University of Texas at Dallas
       details: |
           - Worked with and helped develop cognitive measures for the Dallas 
           Lifespan Brain Study, a longitudinal investigation of behavioral and 
@@ -202,15 +211,10 @@ skills:
               Psychopy, E-prime"      
         level: 90%
       - name: "Programming: 
-              MATLAB, Python"
+              MATLAB, Python, Bash"
         level: 80%
 
-languages:
-      - idiom: English
-        level: Professional
 
-      - idiom: Chinese
-        level: Native
 
 footer: >
     Template adapted from <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
