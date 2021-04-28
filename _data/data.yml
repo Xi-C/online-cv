@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    #education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Xi Chen, PhD
@@ -14,8 +14,7 @@ sidebar:
     # Sidebar links
     email: xi.chen@berkeley.edu
   #  phone: 012 345 6789
-    google scholar: scholar.google.com/citations?user=o_toHl4AAAAJ&hl=en #do not add http://
-    researchgate: www.researchgate.net/profile/Xi-Chen-460
+  #  website: #do not add http://
   # linkedin: alandoe
   # xing: alandoe
   # github: sharu725
@@ -199,16 +198,20 @@ skills:
     title: Skills
 
     toolset:
-      - name: Imaging analysis - SPM, FSL, FreeSurfer
-      - level: 98%
+      - name: R, SPSS, Mplus
 
-      - name: Statistical analysis - R, SPSS, Mplus
         level: 98%
 
-      - name: Experimental design - Psychopy, E-prime
+      - name: SPM, FSL, FreeSurfer
+
+        level: 98%
+
+      - name: Psychopy, E-prime
+      
         level: 95%
 
-      - name: Programming - MATLAB, Python
+      - name: MATLAB, Python
+      
         level: 90%
 
 
