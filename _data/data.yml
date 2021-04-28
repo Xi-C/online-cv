@@ -39,14 +39,14 @@ sidebar:
 #      - idiom: Spanish
 #        level: Professional
 
-  #  interests:
-#      - item: Climbing
+    interests:
+      - item: Cognitive Aging
 #        link:
 
-#      - item: Snowboarding
+      - item: Memory
 #        link:
 
-#      - item: Cooking
+      - item: Neuroimaging
 #        link:
 
 career-profile:
