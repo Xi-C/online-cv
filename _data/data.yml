@@ -55,20 +55,21 @@ career-profile:
       I am a postdoctoral researcher in [the Jagust Lab](https://jagustlab.neuro.berkeley.edu) at [the University of 
       California, Berkeley](https://www.berkeley.edu) and [Lawrence Berkeley National Laboratory](https://www.lbl.gov),
       with experience in experimental design, multi-modal neuroimaging methods, 
-      and advanced statistical analysis. I completed my Ph.D. in Cognition and 
+      and advanced statistical analyses. I completed my Ph.D. in Cognition and 
       Neuroscience with Dr. Denise Park at the University of Texas at Dallas.
 
 
-      I am interested in age-related changes in cognition, brain structure, and 
-      brain function. Specifically, using Magnetic Resonance Imaging (MRI) and 
-      Positron Emission Tomography (PET), I study behavioral and brain 
-      differences in healthy older individuals and those at the preclinical stage
+      I am interested in changes in cognition, brain structure, and brain 
+      function in older adults. Specifically, using Magnetic Resonance Imaging 
+      (MRI) and Positron Emission Tomography (PET), I study behavioral and brain 
+      differences in healthy older individuals and those at the earliest stages
       of Alzheimer's Disease (AD). My research also incorporates advanced 
-      statistical analysis (e.g., linear/nonlinear regression, mixed effects 
+      statistical methods (e.g., linear/nonlinear regression, mixed effects 
       modeling, causal inference approach, multivariate analysis, structural 
       equation modeling, mixture modeling) and explores individual differences 
-      in normal and successful agers. Ultimately, I am interested in understanding 
-      brain and behavioral bases for pathological, normal, and successful aging.
+      in aging. Ultimately, I am interested in understanding brain and behavioral 
+      changes in pathological, normal, and successful aging.
+
 education:
     - degree: Ph.D. in Cognition and Neuroscience
       university: University of Texas at Dallas
@@ -85,8 +86,6 @@ experiences:
       time: 2020 Janurary - Present
       company: "Lawrence Berkeley National Laboratory & University of California, Berkeley"
       details: |
-          - Worked with large longitudinal datasets of multi-modal neuroimaging 
-          and cognitive data in normal older adults.
           - Developed a new fMRI experiment to assess specific memory deficits 
           related to early AD pathology.
           - Utilized FTP-PET and PiB-PET to examine the effect of normal aging 
@@ -97,15 +96,15 @@ experiences:
       time: 2014 June - 2019 December
       company: University of Texas at Dallas
       details: |
-          - Worked with and helped develop cognitive measures for the Dallas 
-          Lifespan Brain Study, a longitudinal investigation of behavioral and 
-          brain changes across the adult lifespan.
-          - Examined longitudinal cognitive change in multiple cognitive domains 
-          using structural equation modeling. 
+          - Worked with a longitudinal dataset that includes multi-modal neuroimaging 
+          data and comprehensive cognitive measures in a large sample of healthy
+          individuals across the adult lifespan.
+          - Examined longitudinal change across multiple cognitive domains using
+          structural equation modeling. 
           - Performed neuroimaging analyses with PET, structural MRI, and 
           functional MRI data in a large-scale, across-lifespan sample.
           - Gained experience in working with cerebrovascular-reactivity and 
-          cerebral blood flow data to examine neurovascular effects on cognition.
+          cerebral blood flow data and examined neurovascular effects on cognition.
           - Demonstrated that subjective memory concerns in objectively normal 
           adults was a valid indicator of worse memory performance, greater 
           memory decline, and decreased brain function in the hippocampus.
@@ -116,7 +115,7 @@ projects:
     assignments:
       - title: What are the functional activation features in successful agers?
 #        link: "#"
-        tagline: "Although older adults often present declining cognitive performance, some still manage to maintain their functions in old age. Explorations on the functional basis for this resiliance to age-related decline may provide a hint of the key to successful aging."
+        tagline: "Although older adults often present declining cognitive performance, some still manage to maintain their functions in old age. Explorations on the functional basis for this resilience to age-related decline may provide a hint of the key to successful aging."
 
       - title: How are memory systems affected by aging and Alzheimer's Disease?
 #        link: "#hook"
@@ -200,15 +199,14 @@ publications:
 skills:
     title: Skills
     toolset:
-      - name: "Statistical analysis: R, SPSS, Mplus"
-        level: 98%
-      - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
-        level: 98%
       - name: "Experimental design: Psychopy, E-prime"      
-        level: 92%
+        level: 95%
+      - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
+        level: 90%
+      - name: "Statistical analysis: R, SPSS, Mplus"
+        level: 85%
       - name: "Programming: MATLAB, Python, Bash"
         level: 80%
-
 
 
 footer: >
