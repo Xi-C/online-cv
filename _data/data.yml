@@ -200,7 +200,7 @@ skills:
 
     toolset:
       - name: Imaging analysis - SPM, FSL, FreeSurfer
-        level: 98%
+      - level: 98%
 
       - name: Statistical analysis - R, SPSS, Mplus
         level: 98%
