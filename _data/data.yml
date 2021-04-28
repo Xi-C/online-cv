@@ -15,7 +15,6 @@ sidebar:
     email: xi.chen@berkeley.edu
   #  phone: 012 345 6789
   #  website: #do not add http://
-    CV: bit.ly/XiChenCV #do not add http://
   # linkedin: alandoe
   # xing: alandoe
   # github: sharu725
@@ -23,6 +22,7 @@ sidebar:
   # gitlab:
   # bitbucket:
     twitter: '@_Xi_Chen__'
+    CV: bit.ly/XiChenCV #do not add http://
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
