@@ -51,11 +51,11 @@ career-profile:
     summary: |
       I am a postdoctoral researcher in [the Jagust Lab](https://jagustlab.neuro.berkeley.edu) at [the University of 
       California, Berkeley](https://www.berkeley.edu) and [Lawrence Berkeley National Laboratory](https://www.lbl.gov),
-      with experience in experimental design, neuroimaging (PET, structural 
-      and functional MRI), and advanced statistical analysis (linear/nonlinear 
-      regression, causal inference approach, multivariate analysis, structural 
-      equation modeling, linear mixed model). I completed my Ph.D. in Cognition 
-      and Neuroscience with Dr. Denise Park at the University of Texas at Dallas.
+      with experience in experimental design, multi-modal neuroimaging methods, 
+      and advanced statistical analysis (e.g., linear/nonlinear regression, 
+      causal inference approach, multivariate analysis, structural equation 
+      modeling, linear mixed model). I completed my Ph.D. in Cognition and 
+      Neuroscience with Dr. Denise Park at the University of Texas at Dallas.
 
 
       I am interested in age-related changes in cognition, brain structure, and 
@@ -69,14 +69,14 @@ career-profile:
 education:
     - degree: PhD in Cognition and Neuroscience
       university: University of Texas at Dallas
-      #time: 2011 - 2012
+      time: 2014 - 2019
       #details: |
     - degree: MS in Applied Cognition and Neuroscience
       university: University of Texas at Dallas
-      #time: 2007 - 2011
+      time: 2012 - 2014
     - degree: BS in Psychology
       university: Beijing Normal University
-      #time: 2008 - 2012      
+      time: 2008 - 2012      
 experiences:
     - role: Postdoctoral Researcher
       time: 2020 Janurary - Present
