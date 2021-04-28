@@ -3,189 +3,212 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Xi Chen
+    tagline: Postdoc Fellow
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: xi.chen@berkeley.edu
+  #  phone: 012 345 6789
+  # website: blog.webjeda.com #do not add http://
+  # linkedin: alandoe
+  # xing: alandoe
+  # github: sharu725
+  # telegram: # add your nickname without '@' sign
+  # gitlab:
+  # bitbucket:
+    twitter: '@_Xi_Chen__'
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
+#      - idiom: Spanish
+#        level: Professional
 
-      - idiom: Spanish
-        level: Professional
+#    interests:
+#      - item: Climbing
+#        link:
 
-    interests:
-      - item: Climbing
-        link:
+#      - item: Snowboarding
+#        link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+#      - item: Cooking
+#        link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a postdoctoral researcher in [the Jagust Lab](https://jagustlab.neuro.berkeley.edu) at [the University of 
+      California, Berkeley](https://www.berkeley.edu) and [Lawrence Berkeley National Laboratory](https://www.lbl.gov),
+      with experience in experimental design, neuroimaging (PET, structural 
+      and functional MRI), and advanced statistical analysis (linear/nonlinear 
+      regression, causal inference approach, multivariate analysis, structural 
+      equation modeling, linear mixed model). I completed my Ph.D. in Cognition 
+      and Neuroscience with Dr. Denise Park at the University of Texas at Dallas.
+      I am interested in age-related changes in cognition, brain structure, and 
+      brain function. Specifically, using Magnetic Resonance Imaging (MRI) and 
+      Positron Emission Tomography (PET), I study behavioral and brain 
+      differences in healthy older individuals and those at the preclinical stage
+      of Alzheimer's Disease (AD). My research also incorporates advanced 
+      statistical techniques and explores individual differences separating 
+      normal and successful agers. Ultimately, I am interested in understanding 
+      brain and behavioral changes in pathological, normal, and successful aging.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: PhD in Cognition and Neuroscience
+      university: University of Texas at Dallas
+      #time: 2011 - 2012
+      #details: |
+    - degree: MS in Applied Cognition and Neuroscience
+      university: University of Texas at Dallas
+      #time: 2007 - 2011
+    - degree: BS in Psychology
+      university: Beijing Normal University
+      #time: 2007 - 2011      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Postdoctoral Researcher
+      time: 2020 Janurary - Present
+      company: UC Berkeley
+      company: Lawrence Berkeley National Laboratory
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Worked with large longitudinal datasets of multi-modal neuroimaging 
+          and cognitive data in normal older adults
+          - Developed a new fMRI experiment to assess specific memory deficits 
+          related to early AD pathology
+          - Utilized FTP-PET and PiB-PET to examine the effect of normal aging 
+          and early AD pathology on longitudinal memory changes in older adults
+          - Demonstrated key regions of tau deposition that are most predictive 
+          of future memory decline in older adults with and without AD pathology
+    - role: Graduate Research Assistant
+      time: 2014 June - 2019 December
+      company: UT Dallas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Worked with and helped develop cognitive measures for the Dallas 
+          Lifespan Brain Study, a longitudinal investigation of behavioral and 
+          brain changes across the adult lifespan.
+          - Examined longitudinal cognitive change in multiple cognitive domains 
+          using structural equation modeling. 
+          - Performed neuroimaging analyses with PET, structural MRI, and 
+          functional MRI data in a large-scale, across-lifespan sample.
+          - Gained experience in working with cerebrovascular-reactivity and 
+          cerebral blood flow data to examine neurovascular effects on cognition.
+          - Demonstrated that subjective memory concerns in objectively normal 
+          adults was a valid indicator of worse memory performance, greater 
+          memory decline, and decreased brain function in the hippocampus.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My current work focuses on three main questions.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: What are the functional activation features in successful agers?
+#        link: "#"
+        tagline: "Although older adults often present worse cognitive performance, some still manage to maintain cognitive functions. Explorations on the functional basis for this resistance to age-related decline may provide a hint of the key to successful aging."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: How are memory systems affected by aging and Alzheimer's Disease?
+#        link: "#hook"
+        tagline: "Memory declines with increasing age and in AD, but how are episodic memory differently affected in normal and pathological aging? Are there specific behavioral markers that are sensitive to alert AD-related memory deficits? Understanding these questions will greatly help with the early detection of AD and the development of better screening tools in clinical trials for AD treatments."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: How do socioeconomic status factors affect age-related declines?
+#        link: "#"
+        tagline: "Many important socioeconomic status factors (e.g., education, occupation) are shown to be related to differences in cognitive aging. But it is unclear what is the underlying mechanism, and to what extent it affects cognitive declines in normal and pathological aging."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Peer-reviewed Publications
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Regional Tau Effects on Prospective Cognitive Change in Cognitively Normal Older Adults
+        link: "https://www.jneurosci.org/content/41/2/366.abstract"
+        authors: Xi Chen, Kaitlin E. Cassady, Jenna N. Adams, Theresa M. Harrison, Suzanne L. Baker and William J. Jagust
+        conference: Journal of Neuroscience, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "The relationship of functional hippocampal activity, amyloid deposition, and longitudinal memory decline to memory complaints in cognitively healthy older adults"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Xi Chen, Michelle E Farrell, Melissa M Rundle, Micaela Y Chan, William A Moore, Gagan S Wig, Denise C Park
+        conference: Neurobiology of Aging, 2021
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Alzheimer's pathology is associated with dedifferentiation of functional memory networks in aging"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Kaitlin Cassady, Jenna Adams, Xi Chen, Anne Maass, Theresa Harrison, Susan Landau, Suzanne Baker, William Jagust
+        conference: Cerebral Cortex, 2021
+
+
+      - title: "Actual memory as a mediator of the amyloid-subjective cognitive decline relationship"
+        link: "https://www.sciencedirect.com/science/article/pii/S2352872918300897"
+        authors: Xi Chen, Michelle E Farrell, William Moore, Denise C Park
+        conference: "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 2019"
+
+
+      - title: "Retrieval practice facilitates judgments of learning through multiple mechanisms: simultaneous and independent contribution of retrieval confidence and retrieval fluency"
+        link: "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00987/full"
+        authors: Xi Chen, Mengting Zhang, Xiaonan L Liu
+        conference: Frontiers in Psychology, 2019
+
+
+      - title: "Confidence in accuracy moderates the benefits of retrieval practice"
+        link: "https://www.tandfonline.com/doi/abs/10.1080/09658211.2018.1529796"
+        authors: Mengting Zhang#, Xi Chen#, Xiaonan L Liu (#contributted equally)
+        conference: Memory, 2019
+
+
+      - title: "Regional amyloid accumulation and cognitive decline in initially amyloid-negative adults"
+        link: "https://n.neurology.org/content/91/19/e1809.abstract"
+        authors: Michelle E Farrell, Xi Chen, Melissa M Rundle, Micaela Y Chan, Gagan S Wig, Denise C Park
+        conference: Neurology, 2018
+
+
+      - title: "Longitudinal accrual of neocortical amyloid burden is associated with microstructural changes of the fornix in cognitively normal adults"
+        link: "https://www.sciencedirect.com/science/article/pii/S0197458018300654"
+        authors: Zhuang Song, Michelle E Farrell, Xi Chen, Denise C Park
+        conference: Neurobiology of Aging, 2018
+
+
+      - title: "Arterial‐spin‐labeling (ASL) perfusion MRI predicts cognitive function in elderly individuals: A 4‐year longitudinal study"
+        link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25938"
+        authors: Jill B De Vis, Shin‐Lei Peng, Xi Chen, Yang Li, Peiying Liu, Sandeepa Sur, Karen M Rodrigue, Denise C Park, Hanzhang Lu
+        conference: Journal of Magnetic Resonance Imaging, 2018
+
+
+      - title: "Age-related changes in cerebrovascular reactivity and their relationship to cognition: A four-year longitudinal study"
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S105381191830243X"
+        authors: Shin-Lei Peng, Xi Chen, Yang Li, Karen M Rodrigue, Denise C Park, Hanzhang Lu
+        conference: Neuroimage, 2018
+
+      - title: "Association of Longitudinal Cognitive Decline With Amyloid Burden in Middle-aged and Older Adults"
+        link: "https://jamanetwork.com/journals/jamaneurology/article-abstract/2628760"
+        authors: Michelle E Farrell, Kristen M Kennedy, Karen M Rodrigue, Gagan Wig, Gérard N Bischof, Jennifer R Rieck, Xi Chen, Sara B Festini, Michael D Devous, Denise C Park
+        conference: JAMA Neurology, 2018
+
+      - title: "Cognitive Predictors of Everyday Problem Solving across the Lifespan"
+        link: "https://www.karger.com/Article/Abstract/459622"
+        authors: Xi Chen, Christopher Hertzog, Denise C Park
+        conference: Gerontology, 2017
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Imaging analysis - SPM, FSL, FreeSurfer
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Statistical analysis - R, SPSS, Mplus
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Programming - MATLAB, Python
+#        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Experimental design - Psychopy, E-prime
+#        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
