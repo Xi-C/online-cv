@@ -4,17 +4,18 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    #education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Xi Chen
+    name: Xi Chen, PhD
     tagline: Postdoc Fellow
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: xi.chen@berkeley.edu
   #  phone: 012 345 6789
-  # website: blog.webjeda.com #do not add http://
+    google scholar: scholar.google.com/citations?user=o_toHl4AAAAJ&hl=en #do not add http://
+    researchgate: www.researchgate.net/profile/Xi-Chen-460
   # linkedin: alandoe
   # xing: alandoe
   # github: sharu725
@@ -26,12 +27,12 @@ sidebar:
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Professional
+#    languages:
+#      - idiom: English
+#        level: Professional
 
-      - idiom: Chinese
-        level: Native
+#      - idiom: Chinese
+#        level: Native
 
 #      - idiom: Spanish
 #        level: Professional
@@ -198,14 +199,14 @@ skills:
     title: Skills
 
     toolset:
-      - name: Experimental design - Psychopy, E-prime
-        level: 95%
-
       - name: Imaging analysis - SPM, FSL, FreeSurfer
         level: 98%
 
       - name: Statistical analysis - R, SPSS, Mplus
         level: 98%
+
+      - name: Experimental design - Psychopy, E-prime
+        level: 95%
 
       - name: Programming - MATLAB, Python
         level: 90%
