@@ -21,9 +21,10 @@ sidebar:
   # telegram: # add your nickname without '@' sign
   # gitlab:
   # bitbucket:
-    googlescholar: GoogleScholar_XiChen
-    researchgate: Researchgate_XiChen
     twitter: '@_Xi_Chen__'
+    googlescholar: GoogleScholar_XiChen
+    researchgate: ResearchGate_XiChen
+    orcid: ORCID_XiChen
   # CV: bit.ly/XiChenCV #do not add http://
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
@@ -39,7 +40,7 @@ sidebar:
 #      - idiom: Spanish
 #        level: Professional
 
-    interests:
+  #  interests:
 #      - item: Climbing
 #        link:
 
