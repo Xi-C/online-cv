@@ -83,7 +83,7 @@ education:
       #time: 2008 - 2012      
 experiences:
     - role: Postdoctoral Researcher
-      time: 2020 Janurary - Present
+      time: Janurary 2020 - Present
       company: "Lawrence Berkeley National Laboratory & University of California, Berkeley"
       details: |
           - Developed a new fMRI experiment to assess specific memory deficits 
@@ -93,7 +93,7 @@ experiences:
           - Demonstrated key regions of tau deposition that are most predictive 
           of future memory decline in older adults with and without AD pathology.
     - role: Graduate Research Assistant
-      time: 2014 June - 2019 December
+      time: June 2014 - December 2019
       company: University of Texas at Dallas
       details: |
           - Worked with a longitudinal dataset that includes multi-modal neuroimaging 
@@ -129,7 +129,7 @@ projects:
 publications:
     title: Peer-reviewed Publications
     papers:
-      - title: Regional Tau Effects on Prospective Cognitive Change in Cognitively Normal Older Adults
+      - title: "Regional Tau Effects on Prospective Cognitive Change in Cognitively Normal Older Adults"
         link: "https://www.jneurosci.org/content/41/2/366.abstract"
         authors: Xi Chen, Kaitlin E Cassady, Jenna N Adams, Theresa M Harrison, Suzanne L Baker and William J Jagust
         conference: Journal of Neuroscience, 2021
@@ -210,4 +210,4 @@ skills:
 
 
 footer: >
-    Design template from <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> @ 2021
+    Design template adapted from <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> @ 2021
