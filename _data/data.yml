@@ -196,17 +196,17 @@ publications:
         authors: Xi Chen, Christopher Hertzog, Denise C Park
         conference: Gerontology, 2017
 
-skills:
-    title: Skills
-    toolset:
-      - name: "Experimental design: Psychopy, E-prime"      
-        level: 95%
-      - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
-        level: 95%
-      - name: "Statistical analysis: R, SPSS, Mplus"
-        level: 90%
-      - name: "Programming: MATLAB, Python, Bash"
-        level: 80%
+#skills:
+#    title: Skills
+#    toolset:
+#      - name: "Experimental design: Psychopy, E-prime"      
+#        level: 95%
+#      - name: "Neuroimaging analysis: SPM, FSL, FreeSurfer"
+#        level: 95%
+#      - name: "Statistical analysis: R, SPSS, Mplus"
+#        level: 90%
+#      - name: "Programming: MATLAB, Python, Bash"
+#        level: 80%
 
 
 footer: >
