@@ -113,11 +113,7 @@ projects:
 #    intro: >
 #      My current work focuses on three main questions.
     assignments:
-      - title: What are the functional activation features in successful agers?
-#        link: "#"
-        tagline: "Although older adults often present declining cognitive performance, some still manage to maintain their functions in old age. Explorations on the functional basis for this resilience to age-related decline may provide a hint of the key to successful aging."
-
-      - title: How are memory systems affected by aging and Alzheimer's Disease?
+      - title: How are memory functions affected by aging and Alzheimer's Disease?
 #        link: "#hook"
         tagline: "Memory is one of the most vulnerable abilities that decline with increasing age and in AD. How are brain systems supporting episodic memory affected in normal and pathological aging? Are there specific behavioral markers that are sensitive to alert AD-related memory deficits? Understanding these questions will help the early detection of pathological changes beyond normal aging and the development of better screening tools in clinical trials for AD treatments."
 
