@@ -129,6 +129,16 @@ projects:
 publications:
     title: Peer-reviewed Publications
     papers:
+      - title: "Functional activation features of memory in successful agers across the adult lifespan"
+        link: "https://www.sciencedirect.com/science/article/pii/S1053811922003974"
+        authors: Xi Chen, Melissa M. Rundle, Kristen M. Kennedy, William Moore and Denise C. Park
+        conference: NeuroImage, 2022
+        
+      - title: "A Double-Edged Sword: The Role of Prior Knowledge in Memory Aging"
+        link: "https://www.frontiersin.org/articles/10.3389/fnagi.2022.874767/full"
+        authors: Xi Chen, Leah Varghese and William J Jagust
+        conference: Frontiers in Aging Neuroscience, 2022        
+       
       - title: "Regional Tau Effects on Prospective Cognitive Change in Cognitively Normal Older Adults"
         link: "https://www.jneurosci.org/content/41/2/366.abstract"
         authors: Xi Chen, Kaitlin E Cassady, Jenna N Adams, Theresa M Harrison, Suzanne L Baker and William J Jagust
